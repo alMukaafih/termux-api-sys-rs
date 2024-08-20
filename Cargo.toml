@@ -1,0 +1,10 @@
+[package]
+name = "termux-api-sys"
+version = "0.1.1"
+edition = "2021"
+repository = "https://github.com/alMukaafih/termux-api-sys-rs.git"
+description = "Bindings to termux-api"
+license = "MIT OR Apache-2.0"
+keywords = ["termux", "termux-api"]
+
+[dependencies]
